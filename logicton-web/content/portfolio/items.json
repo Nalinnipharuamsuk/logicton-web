@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "id": "portfolio-item-1",
+      "title": {
+        "th": "เว็บไซต์อีคอมเมิร์ซ",
+        "en": "E-commerce Website"
+      },
+      "description": {
+        "th": "เว็บไซต์ขายสินค้าออนไลน์ที่ทันสมัยและใช้งานง่าย",
+        "en": "Modern and user-friendly online shopping website"
+      },
+      "client": {
+        "name": "Sample Client Co.",
+        "industry": "Retail"
+      },
+      "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "Stripe"],
+      "images": ["/images/web-preview.png"],
+      "demoUrl": "https://demo.example.com",
+      "category": "web",
+      "completedDate": "2023-12-01T00:00:00.000Z",
+      "featured": true,
+      "isActive": true
+    },
+    {
+      "id": "portfolio-item-2",
+      "title": {
+        "th": "แอปพลิเคชันมือถือ",
+        "en": "Mobile Application"
+      },
+      "description": {
+        "th": "แอปมือถือที่ทันสมัยสำหรับ iOS และ Android",
+        "en": "Modern mobile application for iOS and Android"
+      },
+      "client": {
+        "name": "Tech Startup Inc.",
+        "industry": "Technology"
+      },
+      "technologies": ["React Native", "Flutter", "Node.js", "Firebase"],
+      "images": ["/images/mobile-app.png"],
+      "demoUrl": "https://demo.example.com",
+      "category": "mobile",
+      "completedDate": "2024-01-15T00:00:00.000Z",
+      "featured": true,
+      "isActive": true
+    },
+    {
+      "id": "portfolio-item-3",
+      "title": {
+        "th": "ระบบจัดการคลังสินค้า",
+        "en": "Inventory Management System"
+      },
+      "description": {
+        "th": "ระบบจัดการคลังสินค้าอัจฉริยะสำหรับธุรกิจขนาดกลาง",
+        "en": "Intelligent inventory management system for medium businesses"
+      },
+      "client": {
+        "name": "Global Logistics Ltd.",
+        "industry": "Logistics"
+      },
+      "technologies": ["Vue.js", "Python", "PostgreSQL", "Docker"],
+      "images": ["/images/placeholder.png"],
+      "demoUrl": "https://demo.example.com",
+      "category": "web",
+      "completedDate": "2024-02-20T00:00:00.000Z",
+      "featured": false,
+      "isActive": true
+    }
+  ]
+}

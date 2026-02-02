@@ -1,0 +1,152 @@
+{
+  "services": [
+    {
+      "id": "service_1738143428000",
+      "title": {
+        "th": "พัฒนาเว็บไซต์",
+        "en": "Web Development"
+      },
+      "description": {
+        "th": "สร้างเว็บไซต์และเว็บแอปพลิเคชันที่ทันสมัยและมีประสิทธิภาพ",
+        "en": "Create modern and efficient websites and web applications"
+      },
+      "features": {
+        "th": [
+          "Responsive Design",
+          "SEO Optimization",
+          "Fast Loading Speed",
+          "Modern UI/UX"
+        ],
+        "en": [
+          "Responsive Design",
+          "SEO Optimization",
+          "Fast Loading Speed",
+          "Modern UI/UX"
+        ]
+      },
+      "technologies": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "icon": "🌐",
+      "category": "web",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "id": "service_1738143428001",
+      "title": {
+        "th": "พัฒนาแอปพลิเคชันมือถือ",
+        "en": "Mobile App Development"
+      },
+      "description": {
+        "th": "สร้างแอปพลิเคชันมือถือสำหรับ iOS และ Android",
+        "en": "Create mobile applications for iOS and Android"
+      },
+      "features": {
+        "th": [
+          "Cross-platform Development",
+          "Native Performance",
+          "User-friendly Interface",
+          "App Store Optimization"
+        ],
+        "en": [
+          "Cross-platform Development",
+          "Native Performance",
+          "User-friendly Interface",
+          "App Store Optimization"
+        ]
+      },
+      "technologies": [
+        "React Native",
+        "Flutter",
+        "Swift",
+        "Kotlin"
+      ],
+      "icon": "📱",
+      "category": "mobile",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "id": "service_1769658085635",
+      "title": {
+        "th": "test test",
+        "en": "Graphic Design"
+      },
+      "description": {
+        "th": "test test",
+        "en": "test test"
+      },
+      "features": {
+        "th": [
+          "test test test"
+        ],
+        "en": [
+          "test test test"
+        ]
+      },
+      "technologies": [
+        "test test test test"
+      ],
+      "icon": "🎬",
+      "category": "animation",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "id": "service_1769659588425",
+      "title": {
+        "th": "abc",
+        "en": "Famework"
+      },
+      "description": {
+        "th": "abc",
+        "en": "abc"
+      },
+      "features": {
+        "th": [
+          "abc abc"
+        ],
+        "en": [
+          "abc abc"
+        ]
+      },
+      "technologies": [
+        "abc abc"
+      ],
+      "icon": "📊",
+      "category": "framework",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "id": "service_1769667770904",
+      "title": {
+        "th": "rr",
+        "en": "rr"
+      },
+      "description": {
+        "th": "rr",
+        "en": "rr"
+      },
+      "features": {
+        "th": [
+          "rr"
+        ],
+        "en": [
+          "rr"
+        ]
+      },
+      "technologies": [
+        "rr"
+      ],
+      "icon": "⚡",
+      "category": "animation",
+      "order": 4,
+      "isActive": false
+    }
+  ]
+}

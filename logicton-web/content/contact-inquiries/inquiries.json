@@ -1,0 +1,79 @@
+[
+  {
+    "id": "inquiry-1770014602773-up475auwi",
+    "name": "John",
+    "email": "john@gmail.com",
+    "subject": "Software Development Inquiry",
+    "message": "rrr",
+    "language": "en",
+    "submittedAt": "2026-02-02T06:43:22.773Z",
+    "status": "new",
+    "ipAddress": "::1"
+  },
+  {
+    "id": "inquiry-1770014420241-hwflr2abh",
+    "name": "John",
+    "email": "john@gmail.com",
+    "subject": "Software Development Inquiry",
+    "message": "test test",
+    "language": "en",
+    "submittedAt": "2026-02-02T06:40:20.241Z",
+    "status": "new",
+    "ipAddress": "::1"
+  },
+  {
+    "id": "inquiry-1770010790195-pjzrnan1g",
+    "name": "By Mama",
+    "email": "john@gmail.com",
+    "subject": "Web Development Inquiry",
+    "message": "vvvvvvvvvv",
+    "language": "th",
+    "submittedAt": "2026-02-02T05:39:50.195Z",
+    "status": "new",
+    "ipAddress": "::1"
+  },
+  {
+    "id": "inquiry-1770005972400-496h4orwm",
+    "name": "John",
+    "email": "john@gmail.com",
+    "subject": "Cloud Solutions Inquiry",
+    "message": "John test",
+    "language": "th",
+    "submittedAt": "2026-02-02T04:19:32.400Z",
+    "status": "read",
+    "ipAddress": "::1"
+  },
+  {
+    "id": "inquiry-1770005864336-3tmdhicv0",
+    "name": "John",
+    "email": "john@gmail.com",
+    "subject": "Web Development Inquiry",
+    "message": "test test test test test",
+    "language": "th",
+    "submittedAt": "2026-02-02T04:17:44.336Z",
+    "status": "new",
+    "ipAddress": "::1"
+  },
+  {
+    "id": "inquiry-1770005461361-3f4lurbqh",
+    "name": "jon",
+    "email": "jon@gmail.com",
+    "subject": "Web Development Inquiry",
+    "message": "test test test test test",
+    "language": "th",
+    "submittedAt": "2026-02-02T04:11:01.361Z",
+    "status": "new",
+    "ipAddress": "::1"
+  },
+  {
+    "id": "inquiry-1770016099990-c26xqp5ea",
+    "name": "viwe",
+    "email": "viwe@gmail.com",
+    "subject": "Mobile Development Inquiry",
+    "message": "ssssss",
+    "language": "en",
+    "submittedAt": "2026-02-02T07:08:19.990Z",
+    "status": "new",
+    "ipAddress": "::1"
+  }
+]

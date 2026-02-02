@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "th": "Logicton",
+    "en": "Logicton"
+  },
+  "siteDescription": {
+    "th": "บริษัทพัฒนาเทคโนโลยีที่มุ่งมั่นสร้างสรรค์โซลูชันคุณภาพสูง",
+    "en": "Technology development company dedicated to creating high-quality solutions"
+  },
+  "contactInfo": {
+    "email": "info@logicton.com",
+    "phone": "+66 2 123 4567",
+    "address": {
+      "th": "123 ถนนสุขุมวิท กรุงเทพฯ 10110",
+      "en": "123 Sukhumvit Road, Bangkok 10110"
+    }
+  },
+  "socialMedia": {
+    "facebook": "https://facebook.com/logicton",
+    "linkedin": "https://linkedin.com/company/logicton",
+    "twitter": "https://twitter.com/logicton"
+  },
+  "seo": {
+    "keywords": {
+      "th": ["พัฒนาเว็บไซต์", "แอปพลิเคชัน", "เทคโนโลยี", "ซอฟต์แวร์"],
+      "en": ["web development", "mobile app", "technology", "software"]
+    }
+  }
+}

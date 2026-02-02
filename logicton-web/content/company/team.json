@@ -1,0 +1,264 @@
+{
+  "members": [
+    {
+      "id": "team-member-1",
+      "name": {
+        "th": "Tony",
+        "en": "Tony"
+      },
+      "role": {
+        "th": "CEO of Company",
+        "en": "CEO of Company"
+      },
+      "bio": {
+        "th": "ผู้นำทีมด้วยประสบการณ์กว่า 10 ปีในอุตสาหกรรมเทคโนโลยี",
+        "en": "Leading the team with over 10 years of experience in the technology industry"
+      },
+      "photo": "/images/team/img_1769858753143_otmow5pqnp.png",
+      "email": "tony@logicton.com",
+      "linkedin": "https://linkedin.com/in/tony",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "id": "team-member-2",
+      "name": {
+        "th": "Tong",
+        "en": "Tong"
+      },
+      "role": {
+        "th": "Graphic Designer",
+        "en": "Graphic Designer"
+      },
+      "bio": {
+        "th": "ผู้นำทีมด้วยประสบการณ์กว่า 10 ปีในอุตสาหกรรมเทคโนโลยี",
+        "en": "Leading the team with over 10 years of experience in the technology industry"
+      },
+      "photo": "/images/team/img_1769858929108_og5mhzvt54h.png",
+      "email": "tony@logicton.com",
+      "linkedin": "https://linkedin.com/in/tony",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "id": "team-member-3",
+      "name": {
+        "th": "Pon",
+        "en": "Pon"
+      },
+      "role": {
+        "th": "Project Manager",
+        "en": "Project Manager"
+      },
+      "bio": {
+        "th": "ดูแลและบริหารโครงการให้เป็นไปตามแผน ประสานงานทีมและลูกค้า เพื่อส่งมอบงานที่มีคุณภาพและตรงเวลา",
+        "en": "Oversees project planning, coordinates teams and clients, and ensures successful on-time delivery."
+      },
+      "photo": "/images/team/img_1769859024641_jo7wgia4x5b.png",
+      "email": "tony@logicton.com",
+      "linkedin": "https://linkedin.com/in/tony",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "id": "team-member-4",
+      "name": {
+        "th": "Bob",
+        "en": "Bob"
+      },
+      "role": {
+        "th": "Web Developer",
+        "en": "Web Developer"
+      },
+      "bio": {
+        "th": " พัฒนาและดูแลเว็บไซต์ให้ใช้งานได้ดี มีประสิทธิภาพ และรองรับทุกอุปกรณ์",
+        "en": "Develops and maintains websites that are fast, responsive, and user-friendly."
+      },
+      "photo": "/images/team/img_1769859108843_0m6518alzpzk.png",
+      "email": "tony@logicton.com",
+      "linkedin": "https://linkedin.com/in/tony",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "id": "team-1769865345554-gjg10nt46",
+      "name": {
+        "th": "Bank",
+        "en": "Bank"
+      },
+      "role": {
+        "th": "Developer",
+        "en": "Developer"
+      },
+      "bio": {
+        "th": "",
+        "en": ""
+      },
+      "photo": "/images/team/img_1769865345367_x4900lkoroe.png",
+      "email": "",
+      "linkedin": "",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "id": "team-1769865861244-vdil7eqdu",
+      "name": {
+        "th": "Pop",
+        "en": "Pop"
+      },
+      "role": {
+        "th": "Developer",
+        "en": "Developer"
+      },
+      "bio": {
+        "th": "",
+        "en": ""
+      },
+      "photo": "/images/team/img_1769865861208_eguvqwdg4jk.png",
+      "email": "",
+      "linkedin": "",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "id": "team-1769874344268-82ek8oajd",
+      "name": {
+        "th": "Gor",
+        "en": "Gor"
+      },
+      "role": {
+        "th": "Developer",
+        "en": "Developer"
+      },
+      "bio": {
+        "th": "",
+        "en": ""
+      },
+      "photo": "/images/team/img_1769874344209_cev7rw0509b.png",
+      "email": "",
+      "linkedin": "",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "id": "team-1769874395713-bhledrhq8",
+      "name": {
+        "th": "Mos",
+        "en": "Mos"
+      },
+      "role": {
+        "th": "Developer",
+        "en": "Developer"
+      },
+      "bio": {
+        "th": "",
+        "en": ""
+      },
+      "photo": "/images/team/img_1769874395653_g0zq0owhtr4.png",
+      "email": "",
+      "linkedin": "",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "id": "team-1769874449566-ycv14vljh",
+      "name": {
+        "th": "Min",
+        "en": "Min"
+      },
+      "role": {
+        "th": "Developer",
+        "en": "Developer"
+      },
+      "bio": {
+        "th": "",
+        "en": ""
+      },
+      "photo": "/images/team/img_1769874449519_92l89ec5wcv.png",
+      "email": "",
+      "linkedin": "",
+      "order": 9,
+      "isActive": true
+    },
+    {
+      "id": "team-1769874508389-55f35sa17",
+      "name": {
+        "th": "Game",
+        "en": "Game"
+      },
+      "role": {
+        "th": "Developer",
+        "en": "Developer"
+      },
+      "bio": {
+        "th": "",
+        "en": ""
+      },
+      "photo": "/images/team/img_1769874508336_get7yfol4t.png",
+      "email": "",
+      "linkedin": "",
+      "order": 10,
+      "isActive": true
+    },
+    {
+      "id": "team-1769874568954-x7gob9ixl",
+      "name": {
+        "th": "James",
+        "en": "James"
+      },
+      "role": {
+        "th": "Developer",
+        "en": "Developer"
+      },
+      "bio": {
+        "th": "",
+        "en": ""
+      },
+      "photo": "/images/team/img_1769874568861_km9mjmq7shr.png",
+      "email": "",
+      "linkedin": "",
+      "order": 11,
+      "isActive": true
+    },
+    {
+      "id": "team-1769874652274-ungu9ue02",
+      "name": {
+        "th": "Moo",
+        "en": "Moo"
+      },
+      "role": {
+        "th": "QA Tester",
+        "en": "QA Tester"
+      },
+      "bio": {
+        "th": "",
+        "en": ""
+      },
+      "photo": "/images/team/img_1769874652223_p12nhj1ovak.png",
+      "email": "",
+      "linkedin": "",
+      "order": 12,
+      "isActive": true
+    },
+    {
+      "id": "team-1769874699016-fsy45x6if",
+      "name": {
+        "th": "Mit",
+        "en": "Mit"
+      },
+      "role": {
+        "th": "Developer",
+        "en": "Developer"
+      },
+      "bio": {
+        "th": "",
+        "en": ""
+      },
+      "photo": "/images/team/img_1769874698897_8znxku0as7n.png",
+      "email": "",
+      "linkedin": "",
+      "order": 13,
+      "isActive": true
+    }
+  ]
+}

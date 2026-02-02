@@ -1,0 +1,44 @@
+{
+    "HomePage": {
+        "title": "We Create Technology for Your Business",
+        "description": "Logicton is dedicated to developing high-quality software and websites to elevate your business to global standards.",
+        "cta": "Start Your Project",
+        "about_title": "About Us",
+        "about_desc": "Leading technology development focused on quality and customer satisfaction.",
+        "services_title": "Our Services",
+        "portfolio_title": "Our Portfolio",
+        "about_cta": "Learn More About Us"
+    },
+    "Navigation": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "contact": "Contact"
+    },
+    "Services": {
+        "web": "Web Development",
+        "mobile": "Mobile Applications",
+        "animation": "Animation",
+        "framework": "Framework Development"
+    },
+    "Footer": {
+        "description": "Transforming businesses with innovative digital solutions. We build cutting-edge web and mobile applications.",
+        "quickLinks": "Quick Links",
+        "services": "Services",
+        "contact": "Contact Info",
+        "email": "contact@logicton.com",
+        "phone": "+66 2 123 4567",
+        "address": "Bangkok, Thailand",
+        "rights": "All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "portfolio": "Portfolio",
+        "web": "Web Development",
+        "mobile": "Mobile Apps",
+        "animation": "Animation",
+        "framework": "Frameworks",
+        "about": "About Us",
+        "contact": "Contact"
+    }
+}

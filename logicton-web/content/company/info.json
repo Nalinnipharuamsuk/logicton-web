@@ -1,0 +1,23 @@
+{
+  "id": "logicton-company",
+  "name": "Logicton",
+  "description": {
+    "th": "Logicton ก่อตั้งขึ้นในปี 2016 ด้วยวิสัยทัศน์ที่ชัดเจนในการส่งมอบโซลูชันด้านเทคโนโลยีที่มีคุณภาพสูงและเชื่อถือได้ จากจุดเริ่มต้นเล็ก ๆ บริษัทได้เติบโตขึ้นจนกลายเป็นพันธมิตรด้านเทคโนโลยีที่ลูกค้าทั้งในประเทศและต่างประเทศให้ความไว้วางใจ",
+    "en": "Logicton was founded in 2016 with a clear vision to deliver reliable, high-quality technology solutions. From a small beginning, we have grown into a trusted technology partner for both domestic and international clients."
+  },
+  "mission": {
+    "th": "พัฒนาเทคโนโลยีที่ตอบโจทย์ความต้องการของลูกค้าด้วยคุณภาพและนวัตกรรม",
+    "en": "Develop technology that meets customer needs with quality and innovation"
+  },
+  "vision": {
+    "th": "เป็นผู้นำด้านการพัฒนาเทคโนโลยีในภูมิภาคเอเชียตะวันออกเฉียงใต้",
+    "en": "To be a leading technology development company in Southeast Asia"
+  },
+  "history": {
+    "th": "ก่อตั้งขึ้นด้วยวิสัยทัศน์ในการสร้างเทคโนโลยีที่เปลี่ยนแปลงโลก",
+    "en": "Founded with a vision to create technology that changes the world"
+  },
+  "foundedYear": 2020,
+  "location": "Bangkok, Thailand",
+  "updatedAt": "2024-01-01T00:00:00.000Z"
+}
